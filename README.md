@@ -7,3 +7,6 @@ The words “world”, “energy”, “future” and “leader” are the most 
 
 Since this code pulls new data every time it runs, the output of the code may change over time. We think that we have achieved a healthy result since we prepared this assignment at the conference time.
 
+
+
+https://github.com/nurulnadira/COP26-Tweets/blob/main/Plot.png
