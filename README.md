@@ -9,4 +9,4 @@ Since this code pulls new data every time it runs, the output of the code may ch
 
 
 
-https://github.com/nurulnadira/COP26-Tweets/blob/main/Plot.png
+![Plot distribution](https://github.com/nurulnadira/COP26-Tweets/blob/main/Plot.png)
